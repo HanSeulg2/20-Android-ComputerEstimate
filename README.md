@@ -17,3 +17,13 @@
 - 호환성 및 채팅 시퀀스 다이어그램
 
    ![호환성 및 채팅](https://user-images.githubusercontent.com/71927210/129303047-7ef98c35-4d56-48bd-960f-898e1b23b4ab.png)
+#### 로그인 화면
+![로그인1](https://user-images.githubusercontent.com/71927210/129303384-bcb0c045-42aa-4e1e-aeff-4dea8e6e2eb6.png) -->
+![로그인2](https://user-images.githubusercontent.com/71927210/129303404-feb9c009-e81c-4bad-baec-a0e00970594e.png) -->
+![로그인3](https://user-images.githubusercontent.com/71927210/129303409-d269c430-e216-4912-8854-3c59c89ae629.png) 
+
+-> ![로그인4](https://user-images.githubusercontent.com/71927210/129303416-dc0018af-ad8f-47c5-aa05-548ea90f8828.png)
+#### 마이페이지 화면
+![마이페이지](https://user-images.githubusercontent.com/71927210/129303448-453ad695-5c7d-4284-b4ad-2c8b98fef926.png)
+로그아웃
+![로그아웃](https://user-images.githubusercontent.com/71927210/129303458-31880dc6-d951-4f55-be31-7f0fc7f89e40.png)
