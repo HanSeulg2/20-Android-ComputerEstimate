@@ -7,6 +7,7 @@
 ### 주요기능
 - 카카오 로그인 및 마이페이지
 - 부품 조회, 부품 담기/ 담은 부품 삭제
+- 호환성 체크
 - 유저 채팅 
 ### 유스케이스 다이어그램
 ![프로젝트기능](https://user-images.githubusercontent.com/71927210/129297164-dea7fa51-d951-4b61-b20b-cd52653bc179.png)
@@ -30,7 +31,8 @@
 ![카테고리뷰](https://user-images.githubusercontent.com/71927210/129303905-c7fc98ea-6e95-4e97-ba0b-78bdf3cd93ec.png)
 #### 카테고리 선택 화면
 ![상품범위 선택뷰](https://user-images.githubusercontent.com/71927210/129303921-3ea72397-5cff-47b0-9d36-7501808a4b48.png)
-
+![카테고리 선택1](https://user-images.githubusercontent.com/71927210/129305172-fca69f6f-3562-4c3b-aa89-385bc241c279.png)
+![카테고리 선택2](https://user-images.githubusercontent.com/71927210/129305186-30428366-79d0-455d-a8af-30126397eac1.png)
 
 #### 상품 목록 화면
 ![상품목록뷰](https://user-images.githubusercontent.com/71927210/129304348-326886a8-8a06-419d-92d4-ae261e536eda.png)
