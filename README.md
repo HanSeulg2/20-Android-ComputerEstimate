@@ -25,3 +25,8 @@
 #### 마이페이지 화면
 ![마이페이지](https://user-images.githubusercontent.com/71927210/129303448-453ad695-5c7d-4284-b4ad-2c8b98fef926.png) 
 ![로그아웃](https://user-images.githubusercontent.com/71927210/129303666-e891fb09-db84-4136-bfa2-a26e17a2bade.png)    
+
+#### 카테고리 화면
+![카테고리뷰](https://user-images.githubusercontent.com/71927210/129303905-c7fc98ea-6e95-4e97-ba0b-78bdf3cd93ec.png)
+#### 카테고리 선택 화면
+![상품범위 선택뷰](https://user-images.githubusercontent.com/71927210/129303921-3ea72397-5cff-47b0-9d36-
