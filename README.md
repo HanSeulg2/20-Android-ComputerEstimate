@@ -29,4 +29,4 @@
 #### 카테고리 화면
 ![카테고리뷰](https://user-images.githubusercontent.com/71927210/129303905-c7fc98ea-6e95-4e97-ba0b-78bdf3cd93ec.png)
 #### 카테고리 선택 화면
-![상품범위 선택뷰](https://user-images.githubusercontent.com/71927210/129303921-3ea72397-5cff-47b0-9d36-
+![상품범위 선택뷰](https://user-images.githubusercontent.com/71927210/129303921-3ea72397-5cff-47b0-9d36-7501808a4b48.png)
