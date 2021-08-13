@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="case_array">
+        <item>모든 브랜드</item>
+        <item>NCORE</item>
+        <item>다크플래쉬</item>
+        <item>마이크로닉스</item>
+        <item>3RSYS</item>
+        <item>데이븐</item>
+        <item>COX</item>
+    </string-array>
+</resources>

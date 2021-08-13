@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.drua">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".GlobalApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DRUA">
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"/>
+
+
+
+
+        <activity android:name=".ui.show.cpu" />
+        <activity android:name=".ui.show.mainboard" />
+        <activity android:name=".ui.show.hdd" />
+        <activity android:name=".ui.show.ssd" />
+        <activity android:name=".ui.show.graphic_card" />
+        <activity android:name=".ui.show.power" />
+        <activity android:name=".ui.show.pc_case" />
+        <activity android:name=".ui.show.ram" />
+        <activity android:name=".API.CPU_Activity" />
+        <activity android:name=".API.SelectProduct_Activity" />
+        <meta-data
+
+            android:name="com.kakao.sdk.AppKey"
+            android:value="@string/kakao_app_key" />
+
+
+    </application>
+
+</manifest>

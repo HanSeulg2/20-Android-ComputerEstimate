@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="power_array">
+        <item>모든 브랜드</item>
+        <item>안텍</item>
+        <item>FSP</item>
+        <item>쿨러마스터</item>
+        <item>잘만</item>
+        <item>시소닉</item>
+        <item>마이크로닉스</item>
+    </string-array>
+</resources>

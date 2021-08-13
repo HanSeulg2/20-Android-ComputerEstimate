@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="price_array">
+        <item>가격 범위를 지정하지 않습니다.</item>
+        <item>10만원 이하</item>
+        <item>10~20만원</item>
+        <item>20~30만원</item>
+        <item>30만원 이상</item>
+    </string-array>
+</resources>

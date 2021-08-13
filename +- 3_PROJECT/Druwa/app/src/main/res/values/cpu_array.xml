@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_array">
+        <item>모든 브랜드</item>
+        <item>인텔</item>
+        <item>AMD</item>
+
+    </string-array>
+</resources>

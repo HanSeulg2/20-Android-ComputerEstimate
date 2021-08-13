@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ram_array">
+        <item>모든 브랜드</item>
+        <item>삼성</item>
+        <item>지스킬</item>
+        <item>게일</item>
+        <item>클레브</item>
+    </string-array>
+</resources>

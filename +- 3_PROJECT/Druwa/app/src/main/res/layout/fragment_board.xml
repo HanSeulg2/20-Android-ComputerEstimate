@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="50dp"
+            android:textColor="@color/black"
+            android:text="초보자 팁" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            app:srcCompat="@drawable/gear" />
+
+        <TextView
+            android:id="@+id/text_board"
+            android:layout_width="wrap_content"
+            android:layout_height="68dp"
+            android:text="호환성 체크를 하고싶으시면 "
+            android:textStyle="bold"
+            android:textColor="#4E8FE6"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/text_boar1"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="하단 버튼을 클릭해주세요"
+            android:textStyle="bold"
+            android:textColor="#458BEA"
+            android:layout_marginBottom="40dp"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="63dp"
+            android:onClick="button1"
+            android:text="호환성 체크 바로가기"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</ScrollView>

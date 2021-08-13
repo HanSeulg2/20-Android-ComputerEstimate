@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hdd_array">
+        <item>모든 브랜드</item>
+        <item>WD</item>
+        <item>씨게이트</item>
+        <item>도시바</item>
+        <item>바라쿠다</item>
+    </string-array>
+</resources>

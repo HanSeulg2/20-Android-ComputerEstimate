@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DRUA</string>
+    <string name="title_category">카테고리</string>
+    <string name="title_qna">채팅</string>
+    <string name="title_home">HOME</string>
+    <string name="title_board">호환성체크</string>
+    <string name="title_notice">준비중..</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">
+        com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior
+    </string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ssd_array">
+        <item>모든 브랜드</item>
+        <item>씨게이트</item>
+        <item>삼성</item>
+        <item>WD</item>
+        <item>ADATA</item>
+        <item>크루셜</item>
+    </string-array>
+</resources>
