@@ -4,6 +4,10 @@
 - Techs : Kakao api, Naver api
 - Database : Firebase
 - 형성관리 : Smartgit
+### 주요기능
+- 카카오 로그인 및 마이페이지
+- 부품 조회, 선택
+- 유저 채팅 
 ### 유스케이스 다이어그램
 ![프로젝트기능](https://user-images.githubusercontent.com/71927210/129297164-dea7fa51-d951-4b61-b20b-cd52653bc179.png)
 ### 시퀀스 다이어그램
