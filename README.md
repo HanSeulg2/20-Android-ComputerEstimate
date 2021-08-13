@@ -35,5 +35,11 @@
 ![상품범위선택뷰3](https://user-images.githubusercontent.com/71927210/129304094-e995c2a1-209f-44b8-854f-a84c1830c657.png)
 
 #### 상품 목록 화면
-![상품목록뷰](https://user-images.githubusercontent.com/71927210/129304348-326886a8-8a06-419d-92d4-ae261e536eda.png) --> 상품 선택시
+![상품목록뷰](https://user-images.githubusercontent.com/71927210/129304348-326886a8-8a06-419d-92d4-ae261e536eda.png)
 ![상품선택시](https://user-images.githubusercontent.com/71927210/129304358-88d8eb8b-e0e2-4ed6-9b3c-149f93182438.png)
+
+#### 담은 상품 목록 화면
+![선택한 상품 목록](https://user-images.githubusercontent.com/71927210/129304556-3ed4d29b-5aaa-411b-ae74-ab9153ae0ee9.png)
+![선택상품 삭제](https://user-images.githubusercontent.com/71927210/129304572-13e1a764-e7ff-45a8-838d-a37b40ff5a94.png)
+
+#### 채팅방 
